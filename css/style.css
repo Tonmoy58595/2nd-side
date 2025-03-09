@@ -535,7 +535,7 @@ footer .foot .foot1 i:hover{
         width: 100%;
         height: auto;
         position: relative;
-        top: 400px;
+        top: 560px;
     }
     .half5 > h1{
         font-size: 30px;
@@ -552,14 +552,14 @@ footer .foot .foot1 i:hover{
     }
     .section4{
         width: 100%;
-        height: 100vh;
+        height: 210vh;
         position: relative;
         top: 470px;
     }
     .section4 div{
         clear: left;
         height: auto;
-        margin-left:100px;
+        margin-left:80px;
     }
     .section5{
         width: 100%;
@@ -592,10 +592,10 @@ footer .foot .foot1 i:hover{
         margin-top: 50px;
     }
     footer{
-        width: 100%;
-        height: 90vh;
+        width: 120%;
+        height:193vh;
         position: relative;
-        top: 150em;
+        top: 185em;
     }
     footer .foot{
         display: block;
